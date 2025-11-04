@@ -48,7 +48,7 @@ The goal is to apply **data preprocessing, transformation, filtering, and visual
 *(Insert your screenshots below — one per plot)*  
 
 - **Scatter Plot:** Revenue vs Rating  
-  > ![scatter_plot](path/to/scatter.png)  
+  > ![scatter_plot](https://github.com/reemitani0/lab-1/blob/main/WhatsApp%20Image%202025-11-04%20at%208.17.11%20PM.jpeg)  
 
 - **Histogram:** Ratings Distribution  
   > ![histogram](path/to/histogram.png)  
