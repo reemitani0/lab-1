@@ -51,10 +51,10 @@ The goal is to apply **data preprocessing, transformation, filtering, and visual
   > ![scatter_plot](https://github.com/reemitani0/lab-1/blob/main/WhatsApp%20Image%202025-11-04%20at%208.17.11%20PM.jpeg)  
 
 - **Histogram:** Ratings Distribution  
-  > ![histogram](path/to/histogram.png)  
+  > ![histogram](https://github.com/reemitani0/lab-1/blob/main/WhatsApp%20Image%202025-11-04%20at%208.17.47%20PM.jpeg)  
 
 - **Boxplot:** Revenue Distribution  
-  > ![boxplot](path/to/boxplot.png)  
+  > ![boxplot](https://github.com/reemitani0/lab-1/blob/main/WhatsApp%20Image%202025-11-04%20at%208.22.27%20PM.jpeg)  
 
 ---
 
